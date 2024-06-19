@@ -2,25 +2,25 @@
  - it is search engine That use any NLP techniques to get that documents that most 
    relevant to user 's query .
 
-# Details
+## Details
  - Using basic NLP techniques such as term document materix , inverted    
    index and tfidf to build search engine . use cosine similarity to give score for each documents to retrive document that most relevant to user 's query .
 
 
-#  Dataset
+## Dataset
  - the dataset that is used , it is wikIR1k that contains on documents.csv file that include the  id of documents and the documents itself .
 - there is 23898 documents
-  <h3>https://ir-datasets.com/wikir.html#wikir/en1k/training</h3>
+  <h4>Link: https://ir-datasets.com/wikir.html#wikir/en1k/training</h4>
 
 
-# Techniques
+## Techniques
  - Text Preprocessing
  - TFIDF
  - Term Document Materix
  - Inverted Index
  - Cosine similarity
 
- # Framework
+ ## Framework
  - Django
 
 
