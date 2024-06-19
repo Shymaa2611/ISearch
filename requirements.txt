@@ -1,0 +1,7 @@
+nltk
+re
+numpy 
+math
+glob
+Django==4.2.3
+Pillow==9.5.0
