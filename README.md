@@ -24,11 +24,11 @@
  - Django
 
 
-![ISearch](projectGUI\\image1.jpg)
-![ISearch](projectGUI\\image2.jpg)
-![ISearch](projectGUI\\image3.jpg)
-![ISearch](projectGUI\\image4.jpg)
-![ISearch](projectGUI\\image5.jpg)
+![ISearch](image1.jpg)
+![ISearch](image2.jpg)
+![ISearch](image3.jpg)
+![ISearch](image4.jpg)
+![ISearch](image5.jpg)
 
 
 
